@@ -1,4 +1,0 @@
-streamlit
-serpapi
-agno
-python-dotenv
