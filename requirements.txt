@@ -1,0 +1,10 @@
+streamlit
+serpapi
+agno
+python-dotenv
+google-genai
+google-generativeai
+websockets
+fastapi
+uvicorn
+twilio
